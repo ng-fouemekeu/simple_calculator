@@ -3,3 +3,4 @@
 
 
 print(" SIMPLE CALCULATOR.")
+print(" Made by Ng_Fouemekeu")
